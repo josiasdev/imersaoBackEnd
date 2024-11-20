@@ -20,14 +20,14 @@
 • MongoDB (NoSQL)
 
 
-### 1. Executar Projeto
-
-```
-node server.js
-```
-
-### 2. Instalar mongodb no Projeto
+### 1. Instalar mongodb no Projeto
 
 ```
 npm install mongodb
+```
+
+### 2. Executar Projeto
+
+```
+node server.js
 ```
