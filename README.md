@@ -31,3 +31,8 @@ npm install mongodb
 ```
 node server.js
 ```
+
+### 3. Executar Projeto com mongodb após colocar variável de ambiente .env e usar script dev
+```
+npm run dev
+```
