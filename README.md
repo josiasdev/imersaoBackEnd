@@ -37,13 +37,18 @@ node server.js
 npm run dev
 ```
 
-# 4. Instalar extensão Thunder Client no Visual Studio Code:
+## 4. Instalar extensão Thunder Client no Visual Studio Code:
 
-### 4.1 Abra o acesso rápido do Visual Studio Code:
+#### 4.1 Abra o acesso rápido do Visual Studio Code:
 ```
 Ctrl+P
 ```
-### 4.2 Cole o comando para instalar a exntesão:
+#### 4.2 Cole o comando para instalar a extensão:
 ```
 ext install rangav.vscode-thunder-client
+```
+
+## 5. Instalar o Multer:
+```
+npm install multer
 ```
