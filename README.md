@@ -52,3 +52,20 @@ ext install rangav.vscode-thunder-client
 ```
 npm install multer
 ```
+
+## 6. Instalar o PostMan:
+https://www.postman.com/downloads/
+
+## 6.1. Instalar extensão PostMan no Visual Studio Code:
+
+#### 6.2 Abra o acesso rápido do Visual Studio Code:
+```
+Ctrl+P
+```
+#### 6.3 Cole o comando para instalar a extensão:
+```
+ext install Postman.postman-for-vscode
+```
+
+## 6.4 Rodar no navegador o PostMan:
+https://web.postman.co/
