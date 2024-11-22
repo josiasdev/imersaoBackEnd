@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">Imersão BackEnd</h1>
+<h1 align="center" style="font-weight: bold;">Insta-Like</h1>
 
 <p align="center">
  <a href="#technologies">Tecnologias</a> •
