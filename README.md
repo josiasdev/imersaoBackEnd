@@ -69,3 +69,8 @@ ext install Postman.postman-for-vscode
 
 ## 6.4 Rodar no navegador o PostMan:
 https://web.postman.co/
+
+## 7. Instalar o Google Gemini Generative ai:
+```
+npm i @google/generative-ai
+```
