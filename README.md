@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">Insta-Like</h1>
+<h1 align="center" style="font-weight: bold;">InstaBytes</h1>
 
 <p align="center">
  <a href="#technologies">Tecnologias</a> •
@@ -84,4 +84,9 @@ npm i @google/generative-ai
 ## 8. Instalar o Cors:
 ```
 npm i cors
+```
+
+## 9. Instalar dotenv
+```
+npm install dotenv
 ```
