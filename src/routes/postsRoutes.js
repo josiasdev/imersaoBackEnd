@@ -14,7 +14,7 @@ import { listarPosts, postarNovoPost, uploadImagem } from "../controllers/postsC
 // const upload = multer({ dest: "./uploads", storage});
 
 // Linux
-const upload = multer({dest: "./uploads"});
+const upload = multer({ dest: "./uploads" });
 
 
 const routes = (app) => {
