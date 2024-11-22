@@ -74,3 +74,8 @@ https://web.postman.co/
 ```
 npm i @google/generative-ai
 ```
+
+## 8. Instalar o Cors:
+```
+npm i cors
+```
