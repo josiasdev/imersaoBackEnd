@@ -12,6 +12,12 @@
 
 <h2 id="technologies">Tecnologias</h2>
 
+<h3 id="technologies">Front-End:</h3>
+• HTML5<br>
+• CSS3<br>
+• JavaScript<br>
+
+
 <h3 id="technologies">Back-End:</h3>
 • JavaScript<br>
 • Node.js<br>
